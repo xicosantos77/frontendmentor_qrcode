@@ -13,7 +13,7 @@ Had most difficulty in being able to resize the image and fit it accordingly to 
 
 ### Links
 
--   Live Site URL: [Vercel](https://your-live-site-url.com)
+-   Live Site URL: [Vercel](https://frontendmentor-qrcode-alpha.vercel.app/)
 
 ### Built with
 
