@@ -1,0 +1,48 @@
+@font-face {
+  font-family: "Outfit"; /* This is the font name you will use later */
+  src: url("../font/Outfit-VariableFont_wght.ttf") format("truetype");
+}
+body {
+  font-family: Outfit;
+  background-color: hsl(212, 45%, 89%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+body section {
+  padding: 15px;
+  background-color: hsl(0, 0%, 100%);
+  width: 320px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 20px;
+}
+body section .qr_code img {
+  border-radius: 10px;
+  width: 100%;
+}
+body section .text {
+  padding: 15px;
+  text-align: center;
+}
+body section .text .text_title {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+body section .text .text_desc {
+  font-size: 18px;
+  color: hsl(220, 15%, 55%);
+}
+body .attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 40px;
+}
+body .attribution a {
+  color: hsl(228, 45%, 44%);
+}/*# sourceMappingURL=styles.css.map */
